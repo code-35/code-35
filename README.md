@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on animation sites
-- 📫 How to reach me through email : ehsanullahapersonalacc@gmail.com
+- 📫 You can reach me through email : ehsanullahapersonalacc@gmail.com
 
 <!---
 code-35/code-35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
